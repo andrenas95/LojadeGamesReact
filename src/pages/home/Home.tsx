@@ -1,7 +1,6 @@
 import ListarProdutosHome from "../../components/produtos/listarprodutoshome/ListarProdutosHome"
 import ModalProduto from "../../components/produtos/modalprodutos/ModalProduto"
 
-
 function Home() {
     return (
         <>
